@@ -34,9 +34,3 @@ This repository contains practical machine learning workflows and dataset resour
 * [`activity binomial logistic regression.csv`](https://github.com/dyyland23-glitch/Binomial-logistic-regression-Part-1-/blob/main/activity%20binomial%20logistic%20regression.csv): Tabular observation dataset containing categorical target outcomes and numerical/categorical features used to fit and validate the binomial logistic regression model.
 
 ---
-
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/dyyland23-glitch/Binomial-logistic-regression-Part-1-.git](https://github.com/dyyland23-glitch/Binomial-logistic-regression-Part-1-.git)
